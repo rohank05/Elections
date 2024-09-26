@@ -1,0 +1,9 @@
+{
+  "name": "Elections",
+  "version": "1.0.0",
+  "description": "A Election Bot for Discord",
+  "main": "src/index.js",
+  "repository": "https://github.com/rohank05/Elections.git",
+  "author": "Rohan Kumar",
+  "license": "MIT"
+}
